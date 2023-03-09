@@ -12,7 +12,7 @@ pkg/
 *.suo
 *.user
 *.userosscache
-*.sln.docstates
+*.sln.docstates (I made a change maybe)
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
